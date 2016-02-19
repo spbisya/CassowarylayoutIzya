@@ -15,6 +15,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".TicketsController" />
+        <activity android:name=".Game" />
+        <activity android:name=".Ticket" />
+        <activity android:name=".Mainscreen" />
+        <activity android:name=".BuyTicket"></activity>
     </application>
 
 </manifest>
